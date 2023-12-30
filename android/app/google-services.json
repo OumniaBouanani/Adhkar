@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320872379970",
+    "project_id": "adhkar-371fb",
+    "storage_bucket": "adhkar-371fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320872379970:android:8afa1fa257fb8483135fdb",
+        "android_client_info": {
+          "package_name": "com.example.adhkar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8ymXSjs4QxmaSsELx0ls6rEn2nBFaLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
